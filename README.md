@@ -346,7 +346,7 @@ This is an independent study guide. It is not affiliated with or endorsed by Sta
 
 The text and exercises in this repository are © SMASHONE CORPORATION and licensed under [CC BY 4.0](LICENSE): you may share and adapt them, including commercially, with attribution and a link to this repository. The linked resources belong to their authors and keep their own licenses.
 
-We are not accepting pull requests yet. Help: <https://smashtutor.com/help/>
+We are not accepting pull requests yet. Questions and suggestions: <https://smashtutor.com/help/>
 
 **Work through it with answer checking — free, in your own ChatGPT: <https://smashtutor.com/?utm_source=github&utm_medium=readme>**
 
